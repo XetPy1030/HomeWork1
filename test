@@ -1,0 +1,53 @@
+
+    <section class="notsection1">
+        <div class="notsection1__back1"></div>
+        <div class="notsection1__back2"></div>
+        <div class="notsection1__block">
+            <div class="">
+                <img src="./images/IMAGE2.png" alt="">
+            </div>
+            <div class="notsection1__block2">
+                <div>
+                    <p class="notsection1__block2-text1">NEW</p>
+                    <p class="notsection1__block2-text2">Spring Cushion</p>
+                    <p class="notsection1__block2-text3">Collection 2019</p>
+                    <p class="notsection1__block2-text4">buy now</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="notsection3">
+        <div class="notsection3__back"></div>
+        <div class="notsection3__block">
+            <div class="notsection3__block2">
+                <div>
+                    <p class="notsection1__block2-text1">About me</p>
+                    <p class="notsection1__block2-text2">I'm a trendy</p>
+                    <p class="notsection5__block2-text3">Cushion Designer</p>
+                    <p class="notsection1__block2-text4">learn more</p>
+                </div>
+            </div>
+            <div class="notsection3__block1">
+                <img src="./images/IMAGE5.png" alt="">
+            </div>
+        </div>
+    </section>
+
+
+    <section class="notsection5">
+        <div class="notsection5__back"></div>
+        <div class="notsection5__block">
+            <div>
+                <img src="./images/IMAGE4.png" alt="">
+            </div>
+            <div class="notsection5__block2">
+                <div>
+                    <p class="notsection1__block2-text1">NEW</p>
+                    <p class="notsection1__block2-text2">Spring Cushion</p>
+                    <p class="notsection1__block2-text3">Collection 2019</p>
+                    <p class="notsection1__block2-text4">buy now</p>
+                </div>
+            </div>
+        </div>
+    </section>

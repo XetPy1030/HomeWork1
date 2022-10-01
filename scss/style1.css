@@ -1,0 +1,174 @@
+.notsection2 {
+  margin: 75px 88px;
+}
+.notsection2 .title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #b99bb6;
+}
+.notsection2 .description {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 38px;
+  text-align: center;
+  color: #5f4d5d;
+  padding: 0 15%;
+}
+.notsection2 .button {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 15px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #b99bb6;
+  border: 1px solid #b99bb6;
+  border-radius: 25px;
+  border-color: #b99bb6;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 15px 30px;
+  margin: 0 auto;
+}
+.notsection2 .cards {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+.notsection2 .cards .card {
+  height: 427px;
+  width: 368px;
+  background-color: #ceb3cb;
+}
+.notsection2 .cards .card .name {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+.notsection2 .cards .card .description {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+  text-align: left;
+  padding: 0%;
+  color: #ffffff;
+  padding-left: 10px;
+}
+
+.notsection4 {
+  padding: 144px 75px;
+}
+.notsection4 .item {
+  display: flex;
+  flex-direction: row;
+  margin: 40px 0px;
+}
+.notsection4 .item .text {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.notsection4 .item .text .title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #b99bb6;
+}
+.notsection4 .item .text .description {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #5f4d5d;
+}
+.notsection4 .item .text .button {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 15px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #b99bb6;
+  border: 1px solid #b99bb6;
+  border-radius: 25px;
+  border-color: #b99bb6;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 15px 30px;
+}
+.notsection4 .item .image {
+  margin: 0px 50px;
+  width: 45%;
+}
+.notsection4 .item .image img {
+  width: 100%;
+}
+.notsection4 .item-left {
+  justify-content: end;
+}
+.notsection4 hr {
+  color: #d7b7d4;
+}
+
+.notsection6 {
+  padding: 75px;
+  padding-bottom: 0%;
+}
+.notsection6 .features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 376px 500px;
+  -moz-column-gap: 26px;
+       column-gap: 26px;
+  row-gap: 54px;
+}
+.notsection6 .features .card {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.notsection6 .features .card .name {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-size: 24px;
+  text-align: center;
+  color: #5f4d5d;
+  margin: 0;
+}
+.notsection6 .features .card .price {
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  color: #b0b0b0;
+  margin: 0;
+}/*# sourceMappingURL=style1.css.map */
